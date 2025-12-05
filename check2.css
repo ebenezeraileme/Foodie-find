@@ -1,0 +1,172 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Train+One&family=Whisper&display=swap');
+body{
+    background-color: aliceblue;
+}
+.contain img{
+    height: 20px;
+}
+.che{
+    color:EF2B02 ;
+    font-family: poppins ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 20px;
+    font-weight: 500;
+}
+label{
+    font-family: poppins;
+    font: bold;
+    font-weight: 600;
+    padding: 3rem;
+}
+.form{
+    /* padding: 15rem; */
+    margin: 3rem;
+    /* display: flex; */
+    /* text-align: center; */
+}
+.form input{
+    /* margin-right: 5rem; */
+     height: 2rem;
+     width: 15rem;
+     border: 1px solid rgba(0, 0, 0, 0.579);
+     border-radius: px;
+     background-color: aliceblue;
+     /* justify-content: center; */
+    }
+.sel{
+    font-family: poppins;
+    display: flex;
+    justify-content: center;
+}
+.flex-1{
+    display: flex;
+    justify-content: center;
+    /* font-style: poppins; */
+    font-family: poppins;
+    font-size: 12px;
+    /* margin-top: 2rem; */
+}
+.method{
+    display: flex;
+    justify-content: center;
+    width: 25rem;
+    height: 2.2rem;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
+    gap: 40px;
+    border: 0.2px solid black;
+}
+.mas img{
+    height: 25px;
+}
+.flex-2{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    /* font-style: poppins; */
+    font-family: poppins;
+    font-size: 12px;
+    /* margin-top: 2rem; */
+}
+.method2{
+    display: flex;
+    justify-content: center;
+    width: 25rem;
+    height: 2.2rem;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
+    gap: 40px;
+    border: 0.2px solid black;
+}
+.vis img{
+    height: 25px;
+}
+.opt{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.opt select{
+    width: 25rem;
+    height: 2.2rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
+}
+.opt2{
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+}
+.opt2 select{
+    width: 25rem;
+    height: 2.2rem;
+    background-color: aliceblue;
+    border-radius: 10px;
+    box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
+}
+.sum{
+    font-family: poppins;
+    font-size: 15px;
+    display: flex;
+    justify-content: center;
+}
+.flex-4{
+    display: flex;
+    justify-content: center;
+    gap: 12rem;
+    font-family: poppins;
+    font-size: 13px;
+    
+}
+.flex-5{
+    font-family: poppins;
+    font-size: 13px ;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 12rem;
+}
+
+.flex-6{
+    font-family: poppins;
+    font-size: 13px;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 12rem;
+}
+.flex-7{
+    font-family: poppins;
+    font-size: 13px;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    gap: 12rem;
+    color: EF2B02;
+
+}
+.btn2{
+    display: flex;
+    justify-content: center;
+}
+.place{
+    background-color: 01B883;
+    color: whitesmoke;
+    border-radius: 10px;
+    width: 15rem;
+    height: 2rem;
+    display: flex;
+    border: none;
+    margin-top: 2rem;
+    text-align: center;
+    justify-content: center;
+    font-family: poppins;
+
+}
+.btn2 a{
+    text-decoration: none;
+    color: whitesmoke;
+}

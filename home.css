@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Train+One&family=Whisper&display=swap');
+.contain img{
+    height: 25px;
+}
+.food{
+    font-family: poppins;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    color: D92500;
+}
+.img{
+    
+    display: flex;
+    justify-content: center;
+    margin: 30px auto;
+}
+.img img{
+    /* border: 1px solid black; */
+    border-radius: 200px;
+    width: 300px;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+}
+.ptag{
+    font-family: poppins;
+    font-size: 25px;
+    /* font: large; */
+    font-family: 500;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.or{
+    font-family: poppins;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 1rem;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+
+}
+.btn{
+    display: flex;
+    justify-content: center;
+    /* width: 22rem; */
+
+}
+.btn2{
+    width: 17rem;
+    height: 2rem;
+    background-color: 01B883;
+    border-radius: 8px;
+    border: none;
+    margin-top: 5rem;
+}

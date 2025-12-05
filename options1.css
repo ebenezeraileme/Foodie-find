@@ -1,0 +1,136 @@
+@import url('https://fonts.googleapis.com/css2?family=Inknut+Antiqua:wght@300;400;500;600;700;800;900&family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Nunito+Sans:ital,opsz,wght@0,6..12,200..1000;1,6..12,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Train+One&family=Whisper&display=swap');
+body{
+    background-color: aliceblue;
+    /* background-color: blue; */
+}
+.contain img{
+    height: 20px;
+}
+.contain2{
+    display: flex;
+    justify-content: center;
+    /* margin: ; */
+}
+.contain2 img{
+    height: 50vh;
+    /* width: 100px; */
+}
+.food{
+    font-family: poppins;
+    color: rgba(0, 0, 0, 0.79);
+    font-weight: 400;
+    display: flex;
+    justify-content: center;
+}
+.soup{
+    display: flex;
+    justify-content: center;
+    color: red;
+    margin-top: 1rem;
+    gap:2px;
+    font-family: poppins;
+    font-size: 13px;
+}
+.soup2{
+    color: black;
+}
+.art{
+    display: flex;
+    justify-content: center;
+    /* margin-bottom: 2rem; */
+    font-family: poppins;
+    font-size: 12px;
+}
+.flex{
+    display: flex;
+    justify-content: center;
+    gap: 10rem;
+
+}
+.star{
+    color: red;
+    font-size: 30px;
+
+}
+.star2{
+    color: gray;
+}
+.smallbox1{
+    width: 2.5rem;
+    height: 1.2rem;
+    border-radius: 10px 3 ;
+    border: 1px solid black;
+    background-color: black;
+}
+.bus1{
+    display: flex;
+    color: white;
+    font-family: poppins;
+    font-size: 12px;
+    justify-content: center;
+}
+.des{
+    display: flex;
+    justify-content: center;
+    font-family: poppins;
+    color: 01B883;
+    font-size: 15px;
+    margin-right: 11rem;
+}
+.mix{
+    /* margin-bottom: 30rem; */
+    display: flex;
+    justify-content: center;
+    font-family: poppins;
+    font-size: 14px;
+    
+}
+.smallbox2{
+    display: flex;
+    justify-content: center;
+    margin-left: 13rem;
+}
+.bus2{
+    border: 1px solid black;
+    border-radius: 1px;
+    height: 2em;
+    font-family: poppins;
+    font-size: 14px;
+    display: flex;
+    width: 3.5rem;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+.extra{
+    margin-left: 2rem;
+    
+}
+.ext{
+      border: 1px solid black;
+    border-radius: 0px;
+    height: 2em;
+    font-family: poppins;
+    font-size: 14px;
+    display: flex;
+    width: 3rem;
+    background-color: black;
+    color: white;
+    justify-content: center;
+}
+.select{
+    display: flex;
+    /* justify-content: center; */
+    margin: 30px auto;
+    flex-direction: column;
+    width: 250px;
+    background-color: aliceblue;
+    font-family: poppins;
+    /* height: 250rem; */
+    gap: 4px;
+
+}
+.opt{
+    background-color: black;
+}
+
