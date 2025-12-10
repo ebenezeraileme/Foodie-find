@@ -148,24 +148,35 @@ body{
 }
 .veg{
     font-family: poppins;
-    font-size: 17px;
+    font-size: 20px;
     color: black;
 }
 .ims a{
     text-decoration: none;
 }
 .mass{
-    font-size: 13px;
-    margin-top: -1rem;
+    /* font-size: 13px; */
+    margin-top: -30px;
 
 }
 .max{
     font-family: poppins;
     font-weight: 300;
+    font-size: 12px;
+}
+.max img{
+    height: 10px;
+    width: 10px;
 }
 .spice{
     font-family: poppins;
     font-weight: 300;
+    font-size: 12px;
+}
+.spice img{
+    height: 10px;
+    width: 10px;
+    /* margin-top: 15px; */
 }
 .fot{
     margin-top: 1.4rem;
@@ -203,28 +214,31 @@ body{
     justify-content: center;
     margin: 30px auto;
 }
+.reco{
+    margin-bottom: -1rem;
+
+}
 .reco a{
     text-decoration: none;
     color: black;
 }
 .okro{
-    /* font-weight: 300; */
     font-family: poppins;
     font-size: 20px;
 }
-/* .reco .min{ */
-/* } */
+.mass1{
+    margin-top: -1.5rem;
+}
 .min{
-    margin-top: 20rem;
+    font-size: 12px;
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
 }
 .royal{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
+    font-size: 12px;
+  
 }
 .fot{
     font-family: poppins;
@@ -271,18 +285,20 @@ body{
 }
 .egu{
     font-family: poppins;
-    font-size: 25px;
+    font-size: 20px;
+}
+.mass2{
+    margin-top: -1.6rem;
 }
 .min1{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
-}
+    font-size: 12px;
+}   
 .spi1{
     font-family: poppins;
+    font-size: 12px;
     font-weight: 300;
-    /* font-size: 12px; */
 }
 .flex10{
     display: flex;
@@ -323,18 +339,21 @@ body{
 }
 .banga{
     font-family: poppins;
-    font-size: 25px;
+    font-size: 20px;
+}
+.mass3{
+    margin-top: -1.7rem;
 }
 .min2{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
+    font-size: 12px;
+    
 }
 .spi2{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
+    font-size: 12px;
 }
 .flex12{
     display: flex;
@@ -375,15 +394,17 @@ body{
     
 }
 .amala{
-    text-align: center;
+
     font-family: poppins;
-    font-size: 20px;
+    font-size: 13px;
+}
+.mass4{
+    margin-top: -1rem;
 }
 .min3{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
+    font-size: 12px;
 }
 .spi3{
     font-family: poppins;
@@ -429,18 +450,20 @@ body{
 }
 .pepper{
     font-family: poppins;
-    font-size: 25px;
+    font-size: 20px;
+}
+.mass5{
+    margin-top: -1.9rem;
 }
 .min4{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
+    font-size: 12px; 
 }
 .spi4{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
+    font-size: 12px;
 }
 .flex17{
     display: flex;
@@ -481,17 +504,20 @@ body{
 }
 .jollof{
     font-family: poppins;
-    font-size: 25px;
+    font-size: 20px;
+}
+.mass6{
+    margin-top: -1.3rem;
 }
 .min4{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
-    /* margin-top: 4rem; */
+    font-size: 12px;
+    
 }
 .spi4{
     font-family: poppins;
     font-weight: 300;
-    /* font-size: 12px; */
+    font-size: 12px;
 }
 

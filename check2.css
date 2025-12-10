@@ -55,8 +55,16 @@ label{
     height: 2.2rem;
     border-radius: 10px;
     box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
-    gap: 40px;
+    gap: 48px;
     border: 0.2px solid black;
+}
+.fle img{
+    height: 20px;
+    margin-top: 5px;
+}
+.eye img{
+    margin-top: 5px;
+    height: 20px;
 }
 .mas img{
     height: 25px;
@@ -79,6 +87,14 @@ label{
     box-shadow: 0px 1px 3px rgba(0,0,0,0.3);
     gap: 40px;
     border: 0.2px solid black;
+}
+.fle2 img{
+    height: 20px;
+    margin-top: 5px;
+}
+.ey img{
+    height: 20px;
+    margin-top: 5px;
 }
 .vis img{
     height: 25px;
@@ -164,6 +180,7 @@ label{
     text-align: center;
     justify-content: center;
     font-family: poppins;
+    cursor: pointer;
 
 }
 .btn2 a{

@@ -83,7 +83,7 @@ body{
     justify-content: center;
     font-family: poppins;
     font-size: 14px;
-    
+    margin-top: -25px;
 }
 .smallbox2{
     display: flex;
@@ -102,35 +102,73 @@ body{
     color: white;
     justify-content: center;
 }
-.extra{
-    margin-left: 2rem;
-    
+.extras-container {
+    background: aliceblue;
+    padding: 20px;
+    border-radius: 10px;
+    width: 100%;
+    max-width: 400px;
+    margin: auto;
 }
-.ext{
-      border: 1px solid black;
-    border-radius: 0px;
-    height: 2em;
-    font-family: poppins;
+
+.extras-title {
+    font-weight: 700;
+    background: #000;
+    color: #fff;
+    display: inline-block;
+    padding: 5px 12px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+
+.input-group {
+    margin-bottom: 18px;
+}
+
+.input-group label {
+    font-size: 15px;
+    font-weight: 600;
+    color: #333;
+    margin-bottom: 5px;
+    display: block;
+}
+
+.select-box {
+    position: relative;
+    width: 100%;
+}
+
+.select-box select {
+    width: 100%;
+    padding: 12px 15px;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    background: #fff;
+    appearance: none;
+    font-size: 15px;
+    font-weight: 500;
+    /* color: #999; */
+}
+
+.select-box .arrow {
+    position: absolute;
+    right: 15px;
+    top: 50%;
+    transform: translateY(-50%);
     font-size: 14px;
+    pointer-events: none;
+    color: #555;
+}
+.button{
     display: flex;
-    width: 3rem;
-    background-color: black;
-    color: white;
     justify-content: center;
 }
-.select{
-    display: flex;
-    /* justify-content: center; */
-    margin: 30px auto;
-    flex-direction: column;
-    width: 250px;
-    background-color: aliceblue;
+.btn{
+    width: 180px;
+    height: 30px;
+    background-color: 01B883;
+    color: white;
     font-family: poppins;
-    /* height: 250rem; */
-    gap: 4px;
-
+    border-radius: 10px;
+    border: none;
 }
-.opt{
-    background-color: black;
-}
-
